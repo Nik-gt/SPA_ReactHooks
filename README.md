@@ -7,7 +7,7 @@ Node.js
 npm init -y  
 npm install react react-dom  
 
-2. Launch: 
+2. Launch:  
 npm start  
   
 3. View react-hooks-shop-cart in the browser:  

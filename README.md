@@ -2,11 +2,10 @@
 Install:  
 Node.js  
   
-##In folder react-hooks-shop-cart:  
-
-Initializing and installing dependencies:  
+## In folder "react-hooks-shop-cart":  
+1. Initializing and installing dependencies:  
 npm init -y  
 npm install react react-dom  
 
-launch: npm start  
+2. Launch: npm start  
 run on: http://localhost:3000/
